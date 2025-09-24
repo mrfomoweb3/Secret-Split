@@ -1,1 +1,1 @@
-# ZK-Passport-Gate-for-Discord
+Secret split
